@@ -38,4 +38,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/princexz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="princexz" /></a><a href="https://ko-fi.com/princexz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="princexz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/princexz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="130" alt="princexz" /></a><a href="https://ko-fi.com/princexz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" margin="5" width="130" alt="princexz" /></a></p><br><br>
