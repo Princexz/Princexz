@@ -1,4 +1,4 @@
-### Hi 👋, I'm <a href="https://www.princexz.github.io/me">Prince!</a> A Full-Stack Developer | Computer Software Engineer.
+### Hi 👋, I'm <a href="https://princexz.github.io/me">Prince!</a> A Full-Stack Developer | Computer Software Engineer.
 - 👀 I’m interested in Learning new Skills
 - 🌱 I’m currently learning Full Stack Web Development.
 
