@@ -1,15 +1,23 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<h1 align="center">Hi 👋, I'm <a href="https://princexz.github.io/me"> Prince!</a></h1>
+<h2 align="center">A Full-Stack Developer || Computer Software Engineer.</h2>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-## Hi 👋, I'm <a href="https://princexz.github.io/me">Prince!</a> A Full-Stack Developer | Computer Software Engineer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Princexz&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 - 👀 I’m interested in Learning new Skills
+
 - 🌱 I’m currently learning Full Stack Web Development.
 
 - 💬 Connect with, and ask me about anything <a href="https://www.twitter.com/angelprince_me">here!.</a>
 
+- 📫 How to reach me **Prince_solomon@yahoo.com**
+
+- ⚡ Fun fact **I'm good with people**
 
 ## 🙋‍♂️Little More About Me:
-<p>
+<p align="justify">
  I love meeting new people and learning new things, so please feel free to say hello and share a story with me. When I am not reading, I’m most likely on my computer writing about mental health, and learning to code or I’m volunteering online when I’m not talking to kids in Nigeria’s inner-city secondary schools about mental health. I'm good at Team Building and collaboration. My secret sauce is getting people excited about the things I'm excited about and about their lives too.
  </p>
  
