@@ -19,6 +19,7 @@
 ## 🙋‍♂️Little More About Me:
 <p align="justify">
  I love meeting new people and learning new things, so please feel free to say hello and share a story with me. When I am not reading, I’m most likely on my computer writing about mental health, and learning to code or I’m volunteering online when I’m not talking to kids in Nigeria’s inner-city secondary schools about mental health. I'm good at Team Building and collaboration. My secret sauce is getting people excited about the things I'm excited about and about their lives too.
+ I'm currently focusing on becoming a good Full Satck Developer | Software Engineer | Computer Programmer that can build anything anywhere around the globe 🌐 no matter how challenging 💻
  </p>
  
  
