@@ -55,7 +55,7 @@
 ## 🌍You Can Find Me On:
 <a href="https://www.github.com/princexz">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
 <a href="https://www.twitter.com/angelprince_me">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
-<a href="https://www.LinkedIn.com/princexz">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.LinkedIn.com/in/princexz">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 
 
