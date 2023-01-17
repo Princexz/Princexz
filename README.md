@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Princexz&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princexz&row=1&theme=monokai" alt="princexz" /></a> </p>
+
 - 👀 I’m interested in Learning new Skills
 
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Full Stack Software Engineer @ [ALX](https://www.alxafrica.com/).
 
 - 💬 Connect with, and ask me about anything <a href="https://www.twitter.com/angelprince_me">here!.</a>
 
@@ -61,4 +63,12 @@
 
 
 ## 🎁Support:
-<p><a href="https://www.buymeacoffee.com/princexz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="130" alt="princexz" /></a><a href="https://ko-fi.com/princexz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" margin="5" width="130" alt="princexz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/princexz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="princexz" /></a></p>
+<P><a href="https://ko-fi.com/princexz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" margin="5" width="120" alt="princexz" /></a></p><br><br></p>
+
+
+
+## Author :black_nib:
+
+* **Prince Solomon** [princexz](https://github.com/princexz)
+
