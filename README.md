@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-<h1 align="center">Hi 👋, I'm <a href="https://princexz.github.io/me"> Prince!</a></h1>
-<h2 align="center">A Full-Stack Developer || Computer Software Engineer.</h2>
+<h1 align="center">Hi 👋, I'm <a href="https://princexz.github.io/me"> Prince Solomon! </a></h1>
+<h2 align="center">A Full-Stack Developer || Computer Software Engineer || Computer & Robotics Engineer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Princexz&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Full Stack Software Engineer @ [ALX](https://www.alxafrica.com/).
 
-- 💬 Connect with, and ask me about anything <a href="https://www.twitter.com/angelprince_me">here!.</a>
+- 💬 Connect with, and ask me about anything <a href="https://www.linktr.ee/princexz">here!.</a>
 
 - 📫 How to reach me **Prince_solomon@yahoo.com**
 
@@ -55,7 +55,7 @@
 
 
 ## 🌍You Can Find Me On:
-<a href="https://www.linktr.ee.com/princexz">![Linktree](https://img.shields.io/badge/linktree-%23121011.svg?style=for-the-badge&logo=linktree&logoColor=white) </a>
+<a href="https://www.linktr.ee/princexz">![Linktree](https://img.shields.io/badge/linktree-%23121011.svg?style=for-the-badge&logo=linktree&logoColor=Green) </a>
 <a href="https://www.github.com/princexz">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
 <a href="https://www.twitter.com/angelprince_me">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href="https://www.LinkedIn.com/in/princexz">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
