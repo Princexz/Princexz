@@ -21,13 +21,15 @@
 ## 🙋‍♂️Little More About Me:
 <p align="justify">
  I love meeting new people and learning new things, so please feel free to say hello and share a story with me. When I am not reading, I’m most likely on my computer writing about mental health, and learning to code or I’m volunteering online when I’m not talking to kids in Nigeria’s inner-city secondary schools about mental health. I'm good at Team Building and collaboration. My secret sauce is getting people excited about the things I'm excited about and about their lives too.
- I'm currently focusing on becoming a good Full Satck Developer | Software Engineer | Computer Programmer that can build anything anywhere around the Globe 🌐 no matter how challenging 💻
+ I'm currently focusing on becoming a good and extraordinary Full Satck Software Engineer | IT Support Engineer | Computer & Software Programmer that can build anything anywhere around the Globe 🌐 no matter how challenging 💻
  </p>
  
  
 ## 🚀 Languages and Tools:
 
 
+ <a href="[https://www.vscode.net](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="VsCode" width="40" height="40"/> </a> 
+ <a href="https://www.pycharm.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
@@ -37,9 +39,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  </p>
-
-
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   
 
 ## 📊 My Github Stats:
 
@@ -71,5 +72,5 @@
 
 ## Author :black_nib:
 
-* **Prince Solomon** [princexz](https://github.com/princexz)
+* **Prince Solomon**  [princexz](https://github.com/princexz)
 
